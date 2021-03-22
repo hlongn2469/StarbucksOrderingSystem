@@ -1,0 +1,23 @@
+D Kray Nguyen 25
+D Linh Nguyen 20
+Kray Nguyen     Iced Caramel Machiatto [Venti]      Iced Caffe Latte [Grande]
+Linh Nguyen     Iced Guava Passionftuit [Venti]     ButterScotch Frappuccino [Tall]
+D Nguyen Ho 100
+Nguyen Ho   Chai Latte [Tall]
+Kelvin Law  Chai Tea [Venti]
+D Kelvin Law 50
+D Andy Chen 200
+D Bong Cut 2
+D Lan Nguyen 15
+Andy Chen   Matcha Green Tea Latte [Grande]
+Lan Nguyen  Peppermint Mocha Frappuccino [Venti]    Hot Caramel Machiatto [Tall]
+Bong Cut    Earl Grey Tea [Venti]   Star Drink [Tall]   Dragon Drink [Venti]
+John Smith  London Fog Tea Latte [Short]  
+D Kevin Bacon 100     
+Kevin Bacon     Chai Tea [Tall]
+D Cristiano Ronaldo 99999999
+Cristiano Ronaldo   Pink Drink [Venti]  Violet Drink [Venti]
+Nguyen Ho   Caramel Machiatto [Venti]
+Kevin Bacon     Earl Grey Tea [Venti]   Star Drink [Tall]   Dragon Drink [Venti]
+D Alan Walker 2000
+Alan Walker Caramel Machiatto[Grande]
